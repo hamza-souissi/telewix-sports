@@ -1,0 +1,46 @@
+{
+  "name": "Telewix-sports",
+  "short_name": "Telewix-sports",
+  "start_url": "https://www.telewix-sports.com/",
+  "display": "standalone",
+  "background_color": "#482dff",
+  "theme_color": "#ffffff",
+  "description": "بوابة لمشاهدة بث مباشر لمباريات اليوم و ملخصات بجودة عالية و أخبار كرة القدم.",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5oeE2zufRbg8zm32N3I2G7Yr9z1jUBnV8lYka1oxfRGgBQonq-bygvNTr3IZfNPFFxrPIaHF0-uZcZWZJcpZVIUFp7HXDXpm99UbxQdIZba2jKtEqDAVWjoZJrV3oXyLmNIzP2cK6YPeSMBBhwziX2SKQU0lOjdaxBR9L2EZX5a3htCPt7cJJYzzdUhQ/s48/1336502_icohome.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5oeE2zufRbg8zm32N3I2G7Yr9z1jUBnV8lYka1oxfRGgBQonq-bygvNTr3IZfNPFFxrPIaHF0-uZcZWZJcpZVIUFp7HXDXpm99UbxQdIZba2jKtEqDAVWjoZJrV3oXyLmNIzP2cK6YPeSMBBhwziX2SKQU0lOjdaxBR9L2EZX5a3htCPt7cJJYzzdUhQ/s72/1336502_icohome.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5oeE2zufRbg8zm32N3I2G7Yr9z1jUBnV8lYka1oxfRGgBQonq-bygvNTr3IZfNPFFxrPIaHF0-uZcZWZJcpZVIUFp7HXDXpm99UbxQdIZba2jKtEqDAVWjoZJrV3oXyLmNIzP2cK6YPeSMBBhwziX2SKQU0lOjdaxBR9L2EZX5a3htCPt7cJJYzzdUhQ/s96/1336502_icohome.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5oeE2zufRbg8zm32N3I2G7Yr9z1jUBnV8lYka1oxfRGgBQonq-bygvNTr3IZfNPFFxrPIaHF0-uZcZWZJcpZVIUFp7HXDXpm99UbxQdIZba2jKtEqDAVWjoZJrV3oXyLmNIzP2cK6YPeSMBBhwziX2SKQU0lOjdaxBR9L2EZX5a3htCPt7cJJYzzdUhQ/s144/1336502_icohome.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5oeE2zufRbg8zm32N3I2G7Yr9z1jUBnV8lYka1oxfRGgBQonq-bygvNTr3IZfNPFFxrPIaHF0-uZcZWZJcpZVIUFp7HXDXpm99UbxQdIZba2jKtEqDAVWjoZJrV3oXyLmNIzP2cK6YPeSMBBhwziX2SKQU0lOjdaxBR9L2EZX5a3htCPt7cJJYzzdUhQ/s168/1336502_icohome.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5oeE2zufRbg8zm32N3I2G7Yr9z1jUBnV8lYka1oxfRGgBQonq-bygvNTr3IZfNPFFxrPIaHF0-uZcZWZJcpZVIUFp7HXDXpm99UbxQdIZba2jKtEqDAVWjoZJrV3oXyLmNIzP2cK6YPeSMBBhwziX2SKQU0lOjdaxBR9L2EZX5a3htCPt7cJJYzzdUhQ/s192/1336502_icohome.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5oeE2zufRbg8zm32N3I2G7Yr9z1jUBnV8lYka1oxfRGgBQonq-bygvNTr3IZfNPFFxrPIaHF0-uZcZWZJcpZVIUFp7HXDXpm99UbxQdIZba2jKtEqDAVWjoZJrV3oXyLmNIzP2cK6YPeSMBBhwziX2SKQU0lOjdaxBR9L2EZX5a3htCPt7cJJYzzdUhQ/s512/1336502_icohome.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
